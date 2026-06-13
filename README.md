@@ -1,17 +1,11 @@
-Nama        : Farrel Faiziaulhaq Azmi
-NIM         : 240605110176
-MatkulL     : Web Programming D
-Dosen       : A'la Syauqi M.Kom.
-LInk Youtube: https://youtu.be/NHRlPKED7kU
-
 # Aplikasi Blog (CMS & Public Front-End)
 
 ## Identitas Mahasiswa
-* **Nama Lengkap:** Sri Mustika Indah Permata Putri
-* **NIM:** [Isi NIM Kamu di Sini]
-* **Mata Kuliah:** Pemrograman Web
+* **Nama Lengkap:** Farrel Faiziaulhaq Azmi
+* **NIM:** 240605110176
+* **Mata Kuliah:** Pemrograman Web D
 * **Dosen Pengampu:** A'la Syauqi M.Kom.
-* **Tautan Video Demonstrasi (YouTube):** [Isi Link Video YouTube Kamu di Sini]
+* **Tautan Video Demonstrasi (YouTube):** https://youtu.be/NHRlPKED7kU
 
 ---
 
